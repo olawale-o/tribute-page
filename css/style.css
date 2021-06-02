@@ -46,6 +46,10 @@ li {
   margin-bottom: 1.5rem;
 }
 
+.author {
+  text-align: center;
+}
+
 #title-desc {
   font-weight: 300;
 }
